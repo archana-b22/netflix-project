@@ -90,7 +90,7 @@ Most frequent words in description (WordCloud)
 📊 Dashboard Metrics (Total Titles, Movies, TV Shows)
 
 
-Images are available in reports/images/.
+Images are available in images/.
 
 
 ---
@@ -186,21 +186,20 @@ netflix-project/
 ├── notebooks/
 │   └── analysis.ipynb
 │
+├──images/
+│   ├── movies_vs_tvshows.png
+│   ├── titles_added_per_year.png
+│   ├── top10_genres.png
+│   ├── wordcloud.png
+│   ├── filters.jpeg
+│   ├── metrics.png
+│   └── filtered_dataset_table.png
+│
 ├── reports/
 │   ├── Netflix_Reports.md
 │   ├── Netflix_Reports.pdf
-│   └── images/
-│       ├── movies_vs_tvshows.png
-│       ├── titles_added_per_year.png
-│       ├── top10_genres.png
-│       ├── wordcloud.png
-│       ├── filters.jpeg
-│       ├── metrics.png
-│       └── filtered_dataset_table.png
-│
+|
 └── requirements.txt
-
-
 ---
 
 📝 Conclusion
